@@ -1,0 +1,33 @@
+# Council results data (generated output — too large and council-specific)
+**/*_Elections_2026.xlsx
+
+# Sandwell example Excel (also generated)
+Councils/Sandwell/Sandwell_Elections_2026.xlsx
+
+# Sutton test output
+Councils/Sutton/
+
+# JSON scraping temp files
+data.json
+
+# Generated analysis folders
+Reform_UK_Analysis/
+
+# Bundled skill copy (system-managed)
+skill/
+
+# Cache and restore folders
+_cache/
+Restore/
+
+# Local Claude settings (contain personal paths and permissions)
+**/.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
