@@ -10,7 +10,7 @@ UK Elections 2026: how the split vote in the left favoured Reform
 
 A few weeks ago, there were local elections in the United Kingdom.
 
-In these elections, the Reform Party won a majority in several local authorities. For example, Sandwell. How did this happen?
+In these elections, the Reform Party won a majority in several local authorities. How did this happen?
 
 The answer is the First Past The Post system, applied here in its
  multi-member ward variant. 
