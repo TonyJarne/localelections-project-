@@ -6,7 +6,7 @@ UK Local Elections 2026 toolkit: scrape any council's results from its official 
 
 ## The story behind this project
 
-UK Elections 2026: how the split vote in the left favoured Reform
+UK Elections 2026: how the split vote on the left favoured Reform
 
 A few weeks ago, there were local elections in the United Kingdom.
 
