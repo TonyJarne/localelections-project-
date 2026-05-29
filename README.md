@@ -22,7 +22,7 @@ Sandwell had always been an area where Labour had been in power. However, the de
 The split in the vote on the left, with a strong only party in the right -Reform- while Tories just got over 10%, meant that in Sandwell, where a larger percentage of people voted for the left -50.6% and 46.9% for the right-, they would have a right-wing council.  
 
 The idea is to show, ward by ward, exactly where and by how much the split vote cost the left seats it should have won on raw vote share alone. 
-The result is a skill for scraping council election results, running the analysis, and visualising the gap between votes and seats in each local authority where this happened.
+The result is a  Claude skill for scraping council election results, running the analysis, and visualising the gap between votes and seats in each local authority where this happened.
 
 ---
 
