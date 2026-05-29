@@ -12,10 +12,9 @@ A few weeks ago, there were local elections in the United Kingdom.
 
 In these elections, the Reform Party won a majority in several local authorities. For example, in Sandwell (West Midlands). How did this happen?
 
-The answer is the First Past The Post system, applied here in its
- multi-member ward variant. 
+The answer is the First Past The Post system, applied here in its multi-member ward variant. 
 
- Each ward elects three councillors. Each voter has up to three votes and can distribute them freely across any candidates from any party. In practice, most voters use all three votes for the three candidates of their preferred party.
+Each ward elects three councillors. Each voter has up to three votes and can distribute them freely across any candidates from any party. In practice, most voters use all three votes for the three candidates of their preferred party.
 
 Sandwell had always been an area where Labour had been in power. However, the decline in Labour’s vote, with an increase in votes for the Greens, meant that Reform became the leading party and won 41 of the 72 council seats.
 
